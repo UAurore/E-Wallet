@@ -1,0 +1,19 @@
+.container{
+    position: absolute;
+    width: 500px;
+    /* background: whitesmoke ; */
+    padding-left: 100px;
+    padding-top: 20px;
+    font-weight: 40;
+    padding-bottom: 20px;
+    height: 65%;
+}
+input{
+    position: relative;
+    width: 300px;
+    border-radius: 05px;
+    height: 30px;
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+}
